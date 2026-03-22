@@ -9,5 +9,5 @@
 		<file>cleanedbunny</file>
 		<dynamic value="true"/>
 		<strip value="false"/>
-	</meshrenderable>
+	</mesh>
 </archetype>
